@@ -1,0 +1,6 @@
+globalStorage/
+workspaceStorage/
+History/
+chatLanguageModels.json
+*.vscdb
+*.vscdb.backup
